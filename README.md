@@ -1,4 +1,4 @@
-# // Modas.cpp : Este archivo contiene la funciÃ³n "main". La ejecuciÃ³n del programa comienza y termina ahÃ­.
+
 
 #include <iostream>
 
