@@ -62,3 +62,9 @@ int obtenerModa(int vector[], int vectorSize)
 		if (newModaCount > modaCount)
 		{
 			moda = newModa;
+   	modaCount = newModaCount;
+		}
+	}
+
+	return moda;
+}
